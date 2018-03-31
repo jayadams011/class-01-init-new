@@ -16,3 +16,6 @@ Python 3.6.4
 None
 
 ## Change log
+083a1d0 (HEAD -> snakes-cafe, origin/snakes-cafe) finished day one of lab
+700ec61 scaffold
+07ed379 (origin/master, origin/HEAD, master) Initial commit
